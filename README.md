@@ -1,16 +1,3 @@
-# qtivate
+# Qtivate APP
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto foi desenvolvido como parte do Projeto Integrador 3 na PUC-Campinas e, devido a ser armazenado em um repositório privado, estou adicionando-o aqui, fazendo as modificações necessárias. O aplicativo simula o ambiente do aluno e inclui uma funcionalidade adicional: um leitor de QR code que registra a presença dos alunos na sala de aula (que era a funcionalidade principal do nosso projeto).
